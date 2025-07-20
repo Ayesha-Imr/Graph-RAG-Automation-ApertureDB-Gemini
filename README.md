@@ -5,9 +5,11 @@ This repo contains notebooks, in parts, showing how to automatically create know
 ## Part 1: Automating Knowledge Graph Creation with ApertureDB and Gemini
 ### Part 1.1:
 Use an LLM (Gemini 2.5 in this case) to intelligently extract entities from your data source, and ingest them into ApertureDB.
+- [Blog Post](https://www.aperturedata.io/resources/automating-knowledge-graph-creation-with-gemini-and-aperturedb-p1)
 
 ### Part 1.2:
 Use an LLM (Gemini 2.5 in this case) to intelligently extract relationships between entities and ingest them into ApertureDB, creating a complete knowledge graph.
+- [Blog Post](https://www.aperturedata.io/resources/automating-knowledge-graph-creation-with-gemini-and-aperturedb-p2)
 
 ### Notebook (contains parts 1.1 and 1.2 both):
 - [Cloud Version](Notebooks/ApertureDB_Knowledge_Graph_with_Gemini.ipynb)
