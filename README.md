@@ -20,9 +20,11 @@ Use an LLM (Gemini 2.5 in this case) to intelligently extract relationships betw
 Creating Descriptors (embeddings) of knowledge graph entities using Gemini embeddngs, ingesting them into a DescriptorSet (vector index), and connecting them with the knowledge graph in ApertureDB.
 #### Notebook:
 - [Cloud Version](Notebooks/GraphRAG_with_ApertureDB_Part_1.ipynb)
+- [Local (udocker version)](Notebooks/LOCAL_GraphRAG_with_ApertureDB_Part_1.ipynb)
 
 ### Part 2.2: Implementing and Evaluating Graph RAG
 Implement graph RAG using our knowledge graph and compare it with vanilla RAG, using numerical + LLM-as-a-Judge evals through Gemini.
 #### Notebook:
 - [Cloud Version](Notebooks/GraphRAG_with_ApertureDB_Part_2.ipynb)
+- [Local (udocker version)](Notebooks/LOCAL_GraphRAG_with_ApertureDB_Part_2.ipynb)
 
