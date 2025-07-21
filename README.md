@@ -5,6 +5,8 @@ This repo contains notebooks, in parts, showing how to automatically create know
 - The Cloud version notebooks involve signing up to [ApertureDB](https://www.aperturedata.io/) Cloud and creating a managed DB instance there to which you can remotely connect.
 - The local version notebooks involve using [udocker](https://indigo-dc.github.io/udocker/) (a library which allows running Docker images in constrained environments like Colab notebooks) to create DB instances locally which you can persist in Google Drive if you want - mitigating the need to sign up to ApertureD Cloud.
 
+Besides the initial DB setup and connection, the notebooks - and thereby the core functionality - are exactly the same.
+
 ## Part 1: Automating Knowledge Graph Creation with ApertureDB and Gemini
 ### Part 1.1:
 Use an LLM (Gemini 2.5 in this case) to intelligently extract entities from your data source, and ingest them into ApertureDB.
