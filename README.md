@@ -33,3 +33,11 @@ Implement graph RAG using our knowledge graph and compare it with vanilla RAG, u
 - [Cloud Version](Notebooks/GraphRAG_with_ApertureDB_Part_2.ipynb)
 - [Local (udocker version)](Notebooks/LOCAL_GraphRAG_with_ApertureDB_Part_2.ipynb)
 
+
+## Sample Data
+In case you don't have any sample PDF lying around, or do not want to use your own, you can use one the sample data PDFs from the repo to test out the notebooks.
+- [Cloud Computing Lecture Notes](https://github.com/Ayesha-Imr/Graph-RAG-Automation-ApertureDB-Gemini/blob/main/Sample%20Data/Cloud%20Computing%20Copy%20Lecture%20Notes.pdf): My Cloud Computing course lecture notes PDF consisting of 42 pages - this is the data I have used to create these notebooks.
+- [Attention is All You Need Research Paper](https://github.com/Ayesha-Imr/Graph-RAG-Automation-ApertureDB-Gemini/blob/main/Sample%20Data/Attention%20Is%20All%20You%20Need.pdf): A legendary research paper.
+- [Harry Potter Book 1 Chapter 1](https://github.com/Ayesha-Imr/Graph-RAG-Automation-ApertureDB-Gemini/blob/main/Sample%20Data/Harry-Potter-1-Chapter-1.pdf): Chapter 1 PDF of my favourite book series' first book - Harry Potter & The Philosopher's Stone.
+
+
