@@ -26,12 +26,14 @@ Creating Descriptors (embeddings) of knowledge graph entities using Gemini embed
 #### Notebook:
 - [Cloud Version](Notebooks/GraphRAG_with_ApertureDB_Part_1.ipynb)
 - [Local (udocker version)](Notebooks/LOCAL_GraphRAG_with_ApertureDB_Part_1.ipynb)
+- [Blog Post](https://www.aperturedata.io/resources/automating-knowledge-graph-creation-with-gemini-and-aperturedb-p3)
 
 ### Part 2.2: Implementing and Evaluating Graph RAG
 Implement graph RAG using our knowledge graph and compare it with vanilla RAG, using numerical + LLM-as-a-Judge evals through Gemini.
 #### Notebook:
 - [Cloud Version](Notebooks/GraphRAG_with_ApertureDB_Part_2.ipynb)
 - [Local (udocker version)](Notebooks/LOCAL_GraphRAG_with_ApertureDB_Part_2.ipynb)
+- [Blog Post](https://www.aperturedata.io/resources/automating-knowledge-graph-creation-with-gemini-and-aperturedb-p4)
 
 
 ## Sample Data
